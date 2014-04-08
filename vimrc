@@ -13,6 +13,8 @@ set shiftwidth=4
 set expandtab
 
 " Syntax and static analysis
+let g:syntastic_mode_map = {'mode': 'active', 'active_filetypes': ['python'], 'passive_filetypes': ['java']}
+
 let g:syntastic_check_on_open=1
 let g:syntastic_enable_highlighting=1
 
