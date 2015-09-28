@@ -42,8 +42,4 @@ let g:syntastic_warning_symbol='!'
 
 let g:syntastic_python_flake8_args="--ignore=E501"
 
-" Python auto-completion
-let g:jedi#popup_on_dot=0
-let g:jedi#show_call_signatures=0
-
 let g:localvimrc_persistent=1

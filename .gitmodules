@@ -4,24 +4,18 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = https://github.com/tpope/vim-sensible.git
-[submodule "bundle/clang_complete"]
-	path = bundle/clang_complete
-	url = https://github.com/Rip-Rip/clang_complete.git
 [submodule "bundle/unimpaired"]
 	path = bundle/unimpaired
 	url = https://github.com/tpope/vim-unimpaired
-[submodule "bundle/vim-gradle"]
-	path = bundle/vim-gradle
-	url = https://github.com/tfnico/vim-gradle.git
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule "bundle/jedi-vim"]
-	path = bundle/jedi-vim
-	url = https://github.com/davidhalter/jedi-vim.git
 [submodule "bundle/vim-localvimrc"]
 	path = bundle/vim-localvimrc
 	url = https://github.com/embear/vim-localvimrc
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/ycm"]
+	path = bundle/ycm
+	url = https://github.com/Valloric/YouCompleteMe.git
