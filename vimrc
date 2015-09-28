@@ -21,6 +21,8 @@ set undofile
 set undolevels=1000
 set undoreload=10000
 
+set completeopt=menuone
+
 " Clang
 let g:clang_use_library = 1
 if has('mac')
